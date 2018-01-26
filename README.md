@@ -1,4 +1,4 @@
-<img src='https://cdn.rawgit.com/botpress/botpress-nlu/6e269c75f71df56a588fb828b05c98c02ad84a81/assets/banner_demo.gif'>
+<img src='https://raw.githubusercontent.com/botpress/botpress-nlu/master/assets/banner_demo.gif'>
 
 # Botpress NLU ⚡
 
