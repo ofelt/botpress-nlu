@@ -1,3 +1,5 @@
+<img src='https://cdn.rawgit.com/botpress/botpress-nlu/6e269c75f71df56a588fb828b05c98c02ad84a81/assets/banner_demo.gif'>
+
 # Botpress NLU ⚡
 
 Botpress NLU is a Botpress module that adds NLU capatibilities to your bot by connecting to the NLU provider of your choice.
